@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++17 -pthread -O3   CMakeFiles/lang.dir/lang.cpp.o  -o /home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/bin/lang 

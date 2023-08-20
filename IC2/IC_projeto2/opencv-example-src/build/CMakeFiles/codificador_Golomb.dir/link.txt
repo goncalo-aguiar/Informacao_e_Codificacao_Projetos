@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++17 -pthread -O3   CMakeFiles/codificador_Golomb.dir/codificador_Golomb.cpp.o  -o /home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-bin/codificador_Golomb  -lsndfile 

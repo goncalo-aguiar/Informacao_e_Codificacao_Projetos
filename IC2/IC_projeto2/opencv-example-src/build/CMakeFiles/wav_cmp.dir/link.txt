@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++17 -pthread -O3   CMakeFiles/wav_cmp.dir/wav_cmp.cpp.o  -o /home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-bin/wav_cmp  -lsndfile 

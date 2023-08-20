@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/wav_effects.cpp
+iostream
+-
+vector
+-
+sndfile.hh
+-
+

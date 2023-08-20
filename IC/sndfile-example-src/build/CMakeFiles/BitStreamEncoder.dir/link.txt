@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++17 -O3   CMakeFiles/BitStreamEncoder.dir/BitStreamEncoder.cpp.o  -o /home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-bin/BitStreamEncoder 

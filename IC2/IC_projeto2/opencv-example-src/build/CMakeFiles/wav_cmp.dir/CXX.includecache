@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/wav_cmp.cpp
+iostream
+-
+vector
+-
+sndfile.hh
+-
+cmath
+-
+math.h
+-
+

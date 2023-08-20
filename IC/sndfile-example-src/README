@@ -1,0 +1,20 @@
+To build:
+	make
+
+To test:
+	../sndfile-example-bin/wav_cp sample.wav copy.wav // copies "sample.wav" into "copy.wav"
+	../sndfile-example-bin/wav_hist sample.wav 0 // outputs the histogram of channel 0 (left)
+	
+	
+	
+	../sndfile-example-bin/wav_quant sample.wav copy2.wav
+	../sndfile-example-bin/wav_cmp sample.wav copy2.wav
+	
+	../sndfile-example-bin/wav_effects sample.wav copy3.wav copy4.wav
+	
+	../sndfile-example-bin/BitStreamEncoder
+	
+	../sndfile-example-bin/BitStreamDecoder
+	
+	../sndfile-example-bin/wav_dct sample.wav out.wav 
+

@@ -1,0 +1,10 @@
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/rebuild_cache.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/codificador_Golomb_imagem.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/edit_cache.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/test_Golomb.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/wav_cmp.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/descoficador_Golomb.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/cp_effects.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/descoficador_Golomb_imagem.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/codificador_Golomb.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC2/IC_projeto2/opencv-example-src/build/CMakeFiles/cp_image.dir

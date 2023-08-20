@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/BitStream.cpp
+fstream
+-
+ostream
+-
+string
+-
+vector
+-
+iostream
+-
+sstream
+-
+
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/wav_dct.cpp
+iostream
+-
+vector
+-
+cmath
+-
+fftw3.h
+-
+sndfile.hh
+-
+BitStream.cpp
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/BitStream.cpp
+

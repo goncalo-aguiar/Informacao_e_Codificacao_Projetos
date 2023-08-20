@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/fcm_novo.cpp
+fstream
+-
+string
+-
+iostream
+-
+cmath
+-
+sstream
+-
+map
+-
+string
+-
+vector
+-
+iterator
+-
+numeric
+-
+
+/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/findlang.cpp
+fcm_novo.cpp
+/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/fcm_novo.cpp
+

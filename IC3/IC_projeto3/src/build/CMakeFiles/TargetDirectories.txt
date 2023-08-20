@@ -1,0 +1,5 @@
+/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/build/CMakeFiles/rebuild_cache.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/build/CMakeFiles/findlang.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/build/CMakeFiles/edit_cache.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/build/CMakeFiles/lang.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/build/CMakeFiles/test_fcm.dir

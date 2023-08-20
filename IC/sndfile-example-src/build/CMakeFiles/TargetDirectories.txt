@@ -1,0 +1,10 @@
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/edit_cache.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/BitStreamDecoder.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/rebuild_cache.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/BitStreamEncoder.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/wav_effects.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/wav_dct.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/wav_cmp.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/wav_quant.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/wav_hist.dir
+/home/goncaloaguiar/Desktop/IC_rep/IC/sndfile-example-src/build/CMakeFiles/wav_cp.dir

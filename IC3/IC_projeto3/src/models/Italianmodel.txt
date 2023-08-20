@@ -1,0 +1,2019 @@
+5	0.1
+ "gue	r	1
+ - ot	t	1
+ 100 	m	1
+ 1939	 	2
+ 1940	,	1
+ 1941	 	1
+ 1944	;	1
+ 1945	.	1
+ 270 	l	1
+ 900 	m	1
+ A pa	r	1
+ Balt	i	3
+ CC-B	Y	1
+ Camp	o	1
+ Comm	o	1
+ Crea	t	1
+ Disp	o	1
+ Finl	a	3
+ Krie	g	1
+ La c	a	1
+ Legg	i	1
+ Ogni	 	1
+ Polo	n	1
+ Pols	k	1
+ Sovi	e	1
+ Unio	n	1
+ Wiki	p	1
+ Woje	n	1
+ a co	m	1	n	1
+ a pi	√	1
+ acqu	e	1
+ ad a	f	1
+ adot	t	1
+ affr	o	3
+ al f	i	1
+ al m	a	1
+ all'	u	1
+ alla	 	2
+ alle	e	1
+ alma	n	1
+ alte	r	1
+ altr	e	1
+ anch	e	1
+ anfi	b	2
+ anni	 	1
+ baci	n	2
+ balt	i	1
+ bass	o	1
+ batt	a	1
+ boni	f	1
+ camp	a	2
+ capi	l	1
+ che 	i	1
+ chiu	n	1
+ circ	a	1
+ coll	a	1
+ comb	a	2
+ come	 	1
+ comp	e	1	r	1
+ comu	n	1
+ con 	m	1
+ conc	l	1
+ conf	l	2	r	1
+ cons	i	1
+ cont	e	2	i	1	r	3
+ coop	e	1
+ copi	a	1
+ cosi	d	1
+ cost	a	1
+ crea	r	1
+ d'in	v	1
+ dal 	c	1	f	1	g	1	s	1
+ degl	i	1
+ dei 	c	1
+ del 	1	6	c	1	m	2
+ dell	'	1	1	2	a	3	e	4
+ di F	i	2
+ di d	i	1
+ di g	a	1	r	1
+ di l	i	1
+ di n	u	1
+ di o	p	1
+ di u	n	1
+ dist	r	1
+ dive	r	2
+ dizi	o	1
+ dura	n	1
+ e fi	n	1
+ e la	 	1	r	1
+ e le	 	1
+ e me	d	1
+ e pu	√	1	b	1
+ e sa	b	1
+ e so	v	1
+ e vi	d	1
+ ed U	n	1
+ ed a	n	1
+ ed i	l	1
+ ed o	c	1
+ eegr	a	1
+ eeri	u	1
+ eeso	p	1
+ enci	c	1
+ esis	t	1
+ esse	r	1
+ fine	 	2
+ finl	a	1
+ fino	 	2
+ fond	a	2
+ forz	e	1
+ fram	m	1
+ fu p	i	1
+ fu t	e	2
+ fung	o	1
+ furo	n	2
+ gara	n	1
+ geog	r	1
+ giug	n	1
+ glii	a	1
+ golf	o	1
+ gran	d	1
+ gros	s	1
+ grup	p	1
+ guer	r	2
+ guid	a	1
+ il b	a	1
+ il c	o	1
+ il g	o	1
+ il m	a	2
+ il n	o	1
+ il t	r	1
+ illc	o	1
+ impe	g	1
+ in c	o	1
+ in o	l	1
+ in p	a	1
+ infe	t	1
+ iniz	i	1
+ inte	n	1
+ l'in	s	1
+ la c	o	1
+ la d	i	1
+ la m	e	1
+ la p	o	1
+ la r	e	1
+ la t	e	1
+ la w	i	1
+ larg	o	1
+ le C	a	1
+ le a	c	1	l	1
+ le f	o	1
+ le r	e	1
+ le u	n	1
+ leef	o	1
+ leem	a	1
+ legg	e	1
+ leon	a	1
+ libe	r	1
+ lice	n	1
+ limi	t	1
+ line	e	1
+ ling	u	1
+ ma n	o	1
+ magg	i	2
+ mar 	B	3
+ marz	o	1
+ mede	s	1
+ medi	a	1
+ migl	i	2
+ mili	t	1
+ mina	t	1
+ mine	 	1
+ modi	f	1
+ mond	i	1
+ nava	l	5
+ nel 	b	1	m	1	s	1
+ nell	'	1	s	1
+ non 	f	1
+ nonn	o	1
+ nove	m	1
+ nuov	e	1
+ o cr	e	1
+ o la	 	1
+ occo	r	1
+ oltr	e	2
+ onli	n	1
+ oper	a	2
+ otto	b	1
+ para	s	1
+ part	e	1	i	2
+ per 	b	1
+ perr	q	1
+ pert	a	1
+ picc	o	1
+ piut	t	2
+ pi√π	π	1	 	1
+ pola	c	1
+ pres	e	1
+ pubb	l	2
+ pu√≤	 	2
+ quel	l	1
+ regi	s	1
+ rego	l	1
+ rist	r	1
+ sabb	i	1
+ scal	a	1
+ scon	t	1
+ seco	n	1
+ sett	e	2
+ sia 	g	1	q	1
+ sott	o	2
+ sovi	e	2
+ spec	i	1
+ spor	a	1	e	1
+ stat	i	1
+ su p	i	1
+ svol	t	1
+ teat	r	3
+ tede	s	4
+ tipi	c	1
+ tra 	g	1	l	1
+ traa	u	1
+ trad	i	1
+ traf	f	1
+ un f	u	1
+ un'e	n	1
+ una 	i	1
+ unil	a	1
+ unit	√	1
+ unnb	a	1
+ vide	 	1
+ wiki	q	1
+ zone	 	1
+ √® c	o	1
+ √® l	i	1
+ √® p	u	1
+ √® u	n	3
+". A 	p	1
+"guer	r	1
+'ambi	t	1
+'enci	c	1
+'insi	e	1
+'inva	s	1
+'inve	r	1
+'usci	t	1
+, Wik	i	1
+, a c	o	1
+, al 	f	1
+, alt	e	1
+, col	l	1
+, dal	 	2
+, di 	l	1	o	1
+, diz	i	1
+, e v	i	1
+, ed 	a	1	o	1
+, ees	o	1
+, fin	o	1
+, il 	b	1	m	1
+, imp	e	1
+, in 	p	1
+, nel	 	1	l	1
+- ott	o	1
+-BY-S	A	1
+-SA e	 	1
+. A p	a	1
+. Dis	p	1
+. La 	c	1
+. Ogn	i	1
+..Cor	d	1
+..Il 	t	1
+..Lun	g	1
+..Wik	i	2
+.Cord	y	1
+.Il t	e	1
+.Lung	o	1
+.Wiki	p	2
+0 lin	g	1
+0 mig	l	2
+0, a 	c	1
+00 mi	g	2
+1 lee	m	1
+100 m	i	1
+1939 	a	2	e	1
+1940,	 	1
+1941 	l	1
+1944;	 	1
+1945.	 	1	.	1
+270 l	i	1
+39 a 	c	1
+39 al	 	1
+39 ed	 	1
+40, a	 	1
+41 le	e	1
+44; l	e	1
+45. L	a	1
+45..L	u	1
+4; le	 	1
+5. La	 	1
+5..Lu	n	1
+70 li	n	1
+9 a c	o	1
+9 al 	m	1
+9 ed 	i	1
+900 m	i	1
+939 a	 	1	l	1
+939 e	d	1
+940, 	a	1
+941 l	e	1
+944; 	l	1
+945. 	L	1
+945..	L	1
+: all	a	1
+: chi	u	1
+: ini	z	1
+; in 	c	1
+; la 	r	1
+; le 	f	1
+;;ris	p	1
+;;tra	 	1
+;risp	e	1
+;tra 	i	1
+? Leg	g	1
+A e p	u	1
+A par	t	1
+BY-SA	 	1
+Balti	c	3
+C-BY-	S	1
+CC-BY	-	1
+Campo	n	1
+Commo	n	1
+Cordy	c	1
+Creat	i	1
+Dispo	n	1
+Finla	n	3
+Il te	a	1
+Krieg	s	1
+La ca	m	1
+Leggi	 	1
+Lungo	 	1
+Maryn	a	1
+Ogni 	c	1
+Polon	i	1
+Polsk	a	1
+SA e 	p	1
+Sovie	t	1
+Union	e	1
+Vuoi 	p	1
+Wikip	e	3
+Wojen	n	1
+Y-SA 	e	1
+a "gu	e	1
+a 100	 	1
+a Cre	a	1
+a Fin	l	1
+a Kri	e	1
+a Pol	o	1	s	1
+a Woj	e	1
+a aff	r	1
+a cam	p	1
+a com	b	1
+a con	 	1	c	1	f	1
+a cos	i	1	t	1
+a d'i	n	1
+a dal	 	1
+a deg	l	1
+a del	l	2
+a dis	t	1
+a e f	i	1
+a e l	a	1
+a e m	e	1
+a ed 	U	1
+a eeg	r	1
+a fin	e	1
+a fu 	p	1
+a gli	i	1
+a gro	s	1
+a gue	r	2
+a il 	n	1
+a int	e	1
+a la 	w	1
+a le 	a	1
+a lee	f	1
+a lic	e	1
+a ma 	n	1
+a med	e	1
+a mon	d	1
+a non	n	1
+a o l	a	1
+a onl	i	1
+a pi√	π	1
+a pol	a	1
+a que	l	1
+a reg	i	1
+a sca	l	1
+a sec	o	1
+a sia	 	1
+a ted	e	1
+a wik	i	1
+a zon	e	1
+a √® 	l	1	u	1
+a, e 	v	1
+a, ee	s	1
+a, il	 	1
+a, im	p	1
+a, ne	l	1
+a. Di	s	1
+a..Il	 	1
+a;;ri	s	1
+a;;tr	a	1
+aMary	n	1
+aaMar	y	1
+aague	r	1
+aauni	t	1
+abbio	s	1
+abile	:	1
+abora	t	1
+acca 	P	1
+acchi	,	1
+acino	 	3
+acque	 	1
+ad af	f	1
+adica	m	1
+adizi	o	1
+adott	a	1
+affic	o	1
+affro	n	3
+afici	 	1
+aggio	 	2
+aglie	 	1
+agna 	f	1
+agne 	s	1
+aguer	r	1
+al co	n	1
+al fi	n	1
+al fo	n	1
+al gi	u	1
+al ma	g	1
+al se	t	1
+ala, 	e	1
+ale b	a	1
+ale, 	d	1
+ali d	i	1
+ali e	 	1
+ali s	i	1
+ali t	e	1
+ali: 	a	1
+aliia	v	1
+aliie	 	1
+alis 	√	1
+alist	i	1
+all'u	s	1
+alla 	c	1	f	1
+allee	v	1
+alman	a	1
+almen	t	1
+alter	a	1
+altic	i	1	o	3
+altre	 	1
+ambit	o	1
+ament	a	1	e	2	o	1
+ammen	t	1
+ampag	n	2
+ampon	o	1
+anacc	h	1
+anche	 	1
+andes	e	1
+andi 	b	1
+andia	 	3
+ando 	l	1
+andon	e	1
+anfib	i	2
+anni 	p	1
+antee	l	1
+antil	e	1
+antir	e	1
+anto 	e	1
+apill	a	1
+ar Ba	l	3
+arant	i	1
+arass	i	1
+ardi,	 	1
+are d	e	1
+are l	e	1
+are? 	L	1
+argo 	c	1
+argom	e	1
+ari g	e	1
+ari t	e	1
+ari; 	i	1
+aria,	 	1
+arine	 	3
+arka 	W	1
+arle.	.	1
+arne 	d	1
+arono	 	2	o	1
+arsi 	a	1	f	1	s	1
+artec	i	1
+artic	o	1
+artir	e	1
+aryna	r	1
+arzo 	d	1
+asion	e	1
+assit	o	1
+asso 	e	1
+ata m	a	1
+ate c	a	1
+ate d	e	1
+ateen	e	1
+atera	l	1
+ati b	a	1
+ativa	 	1
+ative	 	1
+ato a	d	1
+ato e	e	1
+ato s	o	1
+atori	a	1
+atro 	d	3
+attag	l	1
+atter	s	1
+attim	e	1
+attut	t	1
+atuit	a	1
+aunit	√	1
+avali	 	2	:	1	i	2
+avver	s	1
+azion	e	1	i	3
+bacin	o	3
+balti	c	1
+basso	 	1
+batta	g	1
+batte	r	1
+batti	m	1
+bbios	o	1
+bblic	a	2
+bblig	a	1
+beram	e	1
+bie s	u	1	v	1
+bile 	i	1
+bile:	 	1
+bioso	,	1
+bito 	d	1
+blica	t	1	z	1
+bliga	t	1
+bonif	i	1
+borat	i	1
+bre -	 	1
+bre d	e	4
+buire	 	1
+buzio	n	1
+ca 10	0	1
+ca Kr	i	1
+ca Po	l	1
+ca de	l	1
+ca e 	f	1
+ca, i	m	1
+cabil	e	1
+cala,	 	1
+camen	t	1
+campa	g	2
+canti	l	1
+capil	l	1
+carle	.	1
+cato 	s	1
+cazio	n	1
+cca P	o	1
+cchi,	 	1
+ccola	 	1
+ccors	e	1
+ce le	 	1
+cenza	 	1	.	1
+ceps 	u	1
+che c	o	1
+che e	 	1
+che i	n	1
+che p	e	1
+che, 	i	1
+che..	W	1
+chi, 	d	1
+chiun	q	1
+ci de	l	1
+ci e 	p	1
+ci es	i	1
+ciali	s	1
+ciclo	p	2
+ciiri	s	1
+cino 	d	1	f	1	p	1
+cipar	e	1
+circa	 	1
+cita 	d	1
+clope	d	2
+clusi	o	1
+co co	m	1
+co du	r	1
+co so	v	1
+co √®	 	1
+co, f	i	1
+cola 	e	1
+colar	e	1
+colla	b	1
+comba	t	2
+come 	i	1
+compe	n	1
+compo	r	1
+compr	e	1
+comun	e	1
+con m	i	1
+concl	u	1
+conda	 	1
+confl	i	2
+confr	o	1
+consi	g	1
+conte	n	2
+conti	n	1
+contr	i	2	o	2
+coome	r	1
+coope	r	1
+copia	t	1
+corse	r	1
+cosid	d	1
+costa	 	1
+cque 	p	1
+crear	n	1
+d Uni	o	1
+d aff	r	1
+d anc	h	1
+d il 	m	1
+d occ	o	1
+d'inv	e	1
+da gu	e	1
+da;;r	i	1
+dal c	o	1
+dal f	o	1
+dal g	i	1
+dal s	e	1
+dale 	b	1
+damen	t	1
+ddett	a	1
+de af	f	1
+de ch	e	1
+de l'	i	1
+degli	 	1
+dei c	o	1
+del 1	9	6
+del c	o	1
+del m	a	2
+dell'	i	1
+dell1	9	2
+della	 	2	a	1
+delle	 	2	e	2
+denti	:	1
+desca	 	3
+desch	e	1
+dese 	c	1
+desim	a	1
+detta	 	1
+di Fi	n	2
+di ad	 	1
+di ba	t	1
+di di	v	1
+di ga	r	1
+di gr	a	1
+di li	m	1
+di nu	o	1
+di op	e	1
+di un	a	1
+di, a	l	1
+dia a	f	1
+dia d	a	1
+dia e	d	1
+dia o	 	1	n	1
+dia s	c	1
+dia √	®	2
+diale	,	1
+dicam	e	1
+die t	r	1
+dific	a	1
+distr	i	1
+diver	s	3
+dizio	n	2
+do la	 	1
+done 	i	1
+dotta	n	1
+duran	t	1
+dycep	s	1
+e - o	t	1
+e 270	 	1
+e 900	 	1
+e Cam	p	1
+e Com	m	1
+e Sov	i	1
+e acq	u	1
+e aff	r	1
+e all	e	1
+e alt	r	1
+e bas	s	1
+e cam	p	1
+e cap	i	1
+e che	 	1
+e com	e	1
+e con	t	2
+e coo	p	1
+e cop	i	1
+e dal	 	1
+e dei	 	1
+e del	 	4	l	5
+e di 	g	1	n	1
+e div	e	1
+e e l	a	1
+e e s	o	1
+e enc	i	1
+e fin	l	1	o	1
+e fon	d	1
+e for	z	1
+e gui	d	1
+e il 	g	1
+e ill	c	1
+e in 	o	1
+e inf	e	1
+e l'i	n	1
+e la 	d	1	p	1
+e lar	g	1
+e le 	C	1	a	1	u	1
+e lin	e	1
+e med	i	1
+e mil	i	1
+e mod	i	1
+e nav	a	2
+e ope	r	1
+e per	r	1
+e pi√	π	1
+e pub	b	1
+e pu√	≤	2
+e reg	o	1
+e sab	b	1
+e sot	t	1
+e sov	i	1
+e spo	r	1
+e su 	p	1
+e svo	l	1
+e ted	e	1
+e tra	 	1	d	1
+e uni	t	1
+e vid	e	1
+e √® 	c	1
+e, Wi	k	1
+e, co	l	1
+e, da	l	1
+e, di	 	2
+e, in	 	1
+e, ne	l	1
+e. Og	n	1
+e..Co	r	1
+e..Wi	k	2
+e: ch	i	1
+e; la	 	1
+e? Le	g	1
+earne	 	1
+eativ	e	1
+eatro	 	3
+ece l	e	1
+ecial	i	1
+ecipa	r	1
+econd	a	1
+ed Un	i	1
+ed an	c	1
+ed il	 	1
+ed oc	c	1
+edesc	a	3	h	1
+edesi	m	1
+edia 	√	2	a	1	o	1	s	1
+edie 	t	1
+ee gu	i	1
+eefor	m	1
+eegra	t	1
+eela 	s	1
+eemar	i	1
+eenel	l	1
+eenem	i	1
+eeost	i	1
+eepro	p	1
+eeriu	t	1
+eesop	r	1
+eevoc	i	1
+eform	i	1
+egger	e	1
+eggi 	l	1
+egist	r	1
+egli 	s	1
+egnat	e	1
+egole	 	1
+egrat	u	1
+egsma	r	1
+ei co	m	1
+el 19	3	2	4	4
+el ba	c	1
+el co	n	1
+el ma	g	1	r	2
+el se	t	1
+ela s	e	1
+ell'a	m	1
+ell'i	n	1
+ell19	3	1	4	1
+ella 	F	1	P	1	c	1
+ellaa	g	1
+elle 	e	1	o	1
+ellee	o	1	p	1
+elli 	p	1
+ellse	t	1
+emari	n	1
+embre	 	4
+eme d	e	1
+emico	 	1
+encic	l	2
+ende 	l	1
+enden	t	1
+enell	a	1
+enemi	c	1
+enna,	 	1
+ensa 	g	1
+enso,	 	1
+ental	i	1
+entar	i	1
+ente 	f	1	m	1
+ente,	 	1
+enti 	n	1	o	1	t	1
+enti:	 	1
+entii	i	1
+ento,	 	1
+enuto	 	1
+enza 	C	1
+enza.	.	1
+eogra	f	1
+eonar	d	1
+eosti	l	1
+eprop	r	1
+eps u	n	1
+er bo	n	1
+erali	s	1
+erame	n	1
+erand	o	1
+eraro	n	1
+erazi	o	2
+ercan	t	1
+ere c	o	1
+ere, 	d	1
+eriut	i	1
+erno"	.	1
+erood	i	1
+erra 	c	1	d	1	m	1	z	1
+errqu	e	1
+ersar	i	1
+ersi 	a	1	c	1	f	1	s	1
+ertan	t	1
+esca 	K	1	d	1	e	1
+esche	 	1
+ese c	o	1
+ese d	i	1
+esent	i	1
+esi n	e	1
+esima	 	1
+esist	e	1
+esopr	a	1
+esser	e	1
+esto 	n	1
+etica	,	1
+etich	e	1
+etico	,	1
+etta 	"	1	l	2
+ette;	 	1
+ettem	b	3
+etto,	 	1
+evoci	 	1
+fetta	 	1
+ffico	o	1
+ffron	t	3
+fibie	 	2
+ficab	i	1
+ficar	l	1
+fici 	e	1
+ficoo	m	1
+fine 	d	2
+finla	n	1
+fino 	a	2
+flitt	o	2
+fo di	 	1
+fonda	l	1	m	1
+formi	c	1
+forze	 	1
+framm	e	1
+front	a	4
+fu pi	u	1
+fu te	a	2
+fungo	 	1
+furon	o	2
+garan	t	1
+gator	i	1
+geogr	a	1
+gere,	 	1
+ggere	,	1
+ggi l	e	1
+ggio 	d	2
+gi le	 	1
+gio d	e	2
+gistr	a	1
+giugn	o	1
+gli s	t	1
+glia 	e	1
+glia,	 	1
+gliat	a	1
+glie 	t	1
+gliia	r	1
+gna f	u	1
+gnate	e	1
+gne s	o	1
+gni c	o	1
+gno d	e	1
+go ci	r	1
+go ol	t	1
+go pa	r	1
+gole 	f	1
+golfo	 	1
+gomen	t	1
+grafi	c	1
+grand	i	1
+gratu	i	1
+gross	i	1
+grupp	i	1
+gsmar	i	1
+gue, 	W	1
+guerr	a	4
+guida	;	1
+he co	n	1
+he e 	s	1
+he in	f	1
+he pe	r	1
+he, i	n	1
+he..W	i	1
+hi, d	i	1
+hiunq	u	1
+i Fin	l	2
+i a p	i	1
+i ad 	a	1
+i anf	i	2
+i ann	i	1
+i bal	t	1
+i bat	t	1
+i com	b	1
+i con	t	2
+i del	l	1
+i di 	F	1
+i div	e	1
+i e l	e	1
+i e p	u	1
+i esi	s	1
+i fur	o	2
+i gar	a	1
+i geo	g	1
+i gra	n	1
+i gru	p	1
+i le 	r	1
+i lim	i	1
+i nav	a	2
+i nel	 	1
+i nuo	v	1
+i o c	r	1
+i ope	r	1
+i par	t	1
+i per	 	1
+i pre	s	1
+i sco	n	1
+i sia	 	1
+i spe	c	1
+i spo	r	1
+i sta	t	1
+i ted	e	2
+i tip	i	1
+i tra	a	1
+i una	 	1
+i, al	t	1
+i, di	z	1
+i: al	l	1
+i: in	i	1
+i; in	 	1
+ia af	f	1
+ia da	l	1
+ia e 	l	1
+ia ed	 	1
+ia gl	i	1
+ia o 	l	1
+ia on	l	1
+ia qu	e	1
+ia sc	a	1
+ia √®	 	2
+ia, e	 	1
+ia, i	l	1
+ia..I	l	1
+ia;;t	r	1
+iale,	 	1
+ialis	t	1
+ialme	n	1
+iargo	m	1
+iata 	m	1
+iato 	e	1
+iavve	r	1
+ibera	m	1
+ibie 	s	2
+ibile	 	1
+ibuir	e	1
+ibuzi	o	1
+ica, 	i	1
+icabi	l	1
+icame	n	1
+icarl	e	1
+icato	 	1
+icazi	o	1
+iccol	a	1
+icenz	a	2
+iche 	c	1
+iche,	 	1
+iche.	.	1
+ici d	e	1
+ici e	 	1
+iciir	i	1
+iclop	e	2
+ico c	o	1
+ico d	u	1
+ico s	o	1
+ico √	®	1
+ico, 	f	1
+icola	r	1
+icoom	e	1
+ida;;	r	1
+iddet	t	1
+ide a	f	1
+ide c	h	1
+ie de	l	1
+ie sp	o	1
+ie su	 	1
+ie sv	o	1
+ie tr	a	2
+iegsm	a	1
+ieme 	d	1
+ietic	a	1	h	1	o	1
+ifica	b	1	r	1
+igato	r	1
+iglia	 	1	,	1	t	1
+iiarg	o	1
+iiavv	e	1
+iie d	e	1
+iiin 	a	1
+iin a	l	1
+iiris	u	1
+ikipe	d	3
+ikiqu	e	1
+il ba	c	1
+il co	m	1
+il go	l	1
+il ma	r	2
+il no	v	1
+il tr	a	1
+ilate	r	1
+ile i	n	1
+ile, 	d	1
+ile: 	c	1
+ilita	r	1
+ilit√	†	1
+ilizz	a	1
+illar	e	1
+illco	m	1
+ima l	i	1
+iment	i	1
+imita	t	1
+impeg	n	1
+in al	m	1
+in co	m	1
+in ol	t	1
+in pa	r	1
+inate	 	1
+indi 	a	1
+ine c	o	1
+ine d	e	1	i	1
+ine e	 	1
+ine m	i	1
+ine n	a	1
+ine, 	c	1
+inee 	g	1
+infet	t	1
+ingue	,	1
+inizi	a	1
+inlan	d	4
+ino a	l	2
+ino d	e	1
+ino f	u	1
+ino p	i	1
+insie	m	1
+inten	s	1
+inuar	o	1
+invas	i	1
+invec	e	1
+inver	n	1
+io de	l	2
+ional	i	1
+ionar	i	1
+ione 	√	1	S	1	c	1	d	1	t	1
+ioni 	a	2	s	1
+ioso,	 	1
+ipare	?	1
+ipedi	a	3
+ipici	 	1
+ipres	e	1
+iquet	t	1
+irca 	1	1
+ire a	l	1
+ire d	a	1
+ire l	a	1
+irisu	l	1
+is √®	 	1
+ispet	t	1
+ispon	i	1
+isten	t	1
+istic	h	1
+istra	z	1
+istre	t	1
+istri	b	1
+isult	a	1
+ita d	e	1
+ita. 	D	1
+itari	 	1
+itate	 	1
+ito d	e	1
+itoid	e	1
+itto 	n	1
+itto,	 	1
+it√† 	l	1	n	2
+iugno	 	1
+iunqu	e	1
+iutil	i	1
+iutto	s	2
+iva e	e	1
+ive C	o	1
+ivers	i	3
+izial	m	1
+izion	a	2
+izzat	o	1
+i√π m	i	1
+i√ππr	i	1
+jenna	,	1
+ka Wo	j	1
+kaaMa	r	1
+kiped	i	3
+kique	t	1
+l 193	9	2
+l 194	0	1	1	1	4	1	5	1
+l bac	i	2
+l com	u	1
+l con	f	2
+l fin	e	1
+l fon	d	1
+l giu	g	1
+l gol	f	1
+l mag	g	2
+l mar	 	3	z	1
+l nov	e	1
+l set	t	2
+l tea	t	1
+l tra	f	1
+l'amb	i	1
+l'ins	i	1
+l'inv	a	1
+l'usc	i	1
+l1939	 	1
+l1945	.	1
+la Fi	n	1
+la Po	l	1
+la co	n	1	s	2
+la di	s	1
+la e 	m	1
+la fi	n	1
+la me	d	1
+la po	l	1
+la re	g	1
+la se	c	1
+la te	d	1
+la wi	k	1
+la, e	e	1
+laagu	e	1
+labor	a	1
+lacca	 	1
+lande	s	1
+landi	a	3
+lare 	d	1	l	1
+largo	 	1
+later	a	1
+lcomp	o	1
+le Ca	m	1
+le ac	q	1
+le al	t	1
+le ba	s	1
+le en	c	1
+le fo	n	1	r	1
+le in	 	1
+le op	e	1
+le re	g	1
+le un	i	1
+le, d	a	1	i	1
+le..C	o	1
+le: c	h	1
+leefo	r	1
+leema	r	1
+leeos	t	1
+leepr	o	1
+leevo	c	1
+legge	r	1
+leona	r	1
+lfo d	i	1
+li di	 	1
+li e 	l	1
+li pr	e	1
+li si	a	1
+li st	a	1
+li te	d	1
+li: a	l	1
+lia e	 	1
+lia, 	i	1
+liata	 	1
+liber	a	1
+licat	o	1
+licaz	i	1
+licen	z	2
+lie t	r	1
+ligat	o	1
+liiar	g	1
+liiav	v	1
+liie 	d	1
+limit	a	1
+line,	 	1
+linee	 	1
+lingu	e	1
+lis √	®	1
+listi	c	1
+litar	i	1
+litto	 	1	,	1
+lit√†	 	1
+lizza	t	1
+ll'am	b	1
+ll'in	v	1
+ll'us	c	1
+ll193	9	1
+ll194	5	1
+lla F	i	1
+lla P	o	1
+lla c	o	2
+lla f	i	1
+llaag	u	1
+llabo	r	1
+llare	 	1
+llcom	p	1
+lle e	n	1
+lle o	p	1
+lleeo	s	1
+lleep	r	1
+lleev	o	1
+lli p	r	1
+llset	t	1
+lmana	c	1
+lment	e	1
+lonia	;	1
+loped	i	2
+lsett	e	1
+lskaa	M	1
+ltaro	n	1
+ltera	n	1
+ltesi	 	1
+ltici	i	1
+ltico	 	3
+ltre 	2	1	9	1	l	1
+lusio	n	1
+ma li	c	1
+ma no	n	1
+maggi	o	2
+manac	c	1
+mar B	a	3
+marin	e	3
+marzo	 	1
+mbatt	e	1	i	1
+mbito	 	1
+mbre 	-	1	d	3
+me de	i	1
+me il	 	1
+medes	i	1
+media	 	1
+menta	l	1	r	1
+mente	 	2	,	1
+menti	 	2
+mento	,	1
+merca	n	1
+miche	,	1
+mico 	s	1
+migli	a	2
+milit	a	1
+minat	e	1
+mine 	n	1
+mitat	e	1
+mment	a	1
+mmons	 	1
+modif	i	1
+mondi	a	1
+mons 	C	1
+mpagn	a	1	e	1
+mpegn	a	1
+mpens	o	1
+mpono	t	1
+mport	a	1
+mpren	d	1
+munee	n	1
+n alm	a	1
+n com	p	1
+n fu 	t	1
+n fun	g	1
+n min	e	1
+n olt	r	1
+n par	t	1
+n'enc	i	1
+na fu	 	1
+na in	t	1
+na, n	e	1
+nacch	i	1
+nali 	s	1
+nardi	,	1
+nari 	g	1
+narka	 	1
+nate 	d	1
+natee	n	1
+naval	i	5
+nbaci	n	1
+nche 	p	1
+ncicl	o	2
+nclus	i	1
+nda g	u	1
+ndale	 	1
+ndame	n	1
+nde l	'	1
+ndent	i	1
+ndese	 	1
+ndi a	d	1
+ndi b	a	1
+ndia 	d	1	e	1	o	1
+ndial	e	1
+ndo l	a	1
+ndone	 	1
+ne So	v	1
+ne ca	p	1
+ne co	m	1	n	1
+ne de	l	2
+ne di	 	2
+ne e 	l	1
+ne il	l	1
+ne mi	l	1
+ne na	v	1
+ne so	t	1
+ne te	d	1
+ne √®	 	1
+ne, c	o	1
+nee g	u	1
+neene	m	1
+nel b	a	1
+nel m	a	1
+nel s	e	1
+nell'	a	1
+nella	 	1
+nells	e	1
+nemic	o	1
+nfett	a	1
+nfibi	e	2
+nflit	t	2
+nfron	t	1
+ngo o	l	1
+ngo p	a	1
+ngue,	 	1
+ni an	f	2
+ni co	n	1
+ni pe	r	1
+ni sp	e	1
+nia;;	t	1
+nibil	e	1
+nific	a	1
+nilat	e	1
+nione	 	1
+nit√†	 	2
+nizia	l	1
+nland	e	1	i	3
+nline	,	1
+nna, 	n	1
+nnbac	i	1
+nni p	e	1
+nnobb	l	1
+no al	l	2
+no co	n	1
+no de	l	2
+no fu	 	1
+no la	 	1
+no pi	u	1
+no tr	a	1
+no". 	A	1
+nobbl	i	1
+non f	u	1
+nonno	b	1
+nooin	v	1
+nooqu	i	1
+notus	 	1
+novem	b	1
+nque 	p	1
+ns CC	-	1
+nsa g	u	1
+nsiem	e	1
+nsigl	i	1
+nso, 	i	1
+nta s	i	1
+ntali	 	1
+ntari	a	1
+ntars	i	3
+nte f	i	1
+nte m	o	1
+nte, 	n	1
+nteel	a	1
+ntend	e	1
+ntens	a	1
+ntenu	t	1
+nti n	a	1
+nti o	 	1
+nti t	i	1
+nti: 	i	1
+ntiii	n	1
+ntile	,	1
+ntinu	a	1
+ntire	 	1
+nto e	s	1
+nto, 	a	1
+ntri 	t	1
+ntrib	u	1
+ntro 	i	2
+nuaro	n	1
+nuove	.	1
+nuto 	√	1
+nvasi	o	1
+nvece	 	1
+nvern	o	1
+nza C	r	1
+nza..	.	1
+o ado	t	1
+o all	'	1	a	1
+o cir	c	1
+o com	p	1
+o con	t	1
+o cre	a	1
+o del	 	5	l	2
+o di 	F	1	d	1	g	1	u	1
+o dur	a	1
+o e s	a	1
+o eer	i	1
+o ess	e	1
+o fra	m	1
+o fu 	t	1
+o il 	c	1	t	1
+o la 	c	1	m	1	t	1
+o nel	l	1
+o non	 	1
+o olt	r	1
+o par	a	1
+o piu	t	1
+o ris	t	1
+o sot	t	1
+o sov	i	1
+o tra	 	1
+o √® 	p	1	u	1
+o". A	 	1
+o, al	 	1
+o, da	l	1
+o, ed	 	2
+o, fi	n	1
+o, il	 	1
+obbli	g	1
+obre 	d	1
+occor	s	1
+oci e	s	1
+odifi	c	1
+odive	r	1
+ograf	i	1
+oi pa	r	1
+oide 	c	1
+oinve	c	1
+ojenn	a	1
+ola e	 	1
+olacc	a	1
+olare	 	1
+ole f	o	1
+olfo 	d	1
+olice	n	1
+ollab	o	1
+oloni	a	1
+olska	a	1
+oltes	i	1
+oltre	 	2
+omari	n	1
+ombat	t	2
+ome i	l	1
+oment	i	1
+omerc	a	1
+ommon	s	1
+ompen	s	1
+ompor	t	1
+ompre	n	1
+omune	e	1
+on fu	 	1
+on mi	n	1
+onali	 	1
+onard	i	1
+onari	 	1
+onclu	s	1
+onda 	g	1
+ondal	e	1
+ondam	e	1
+ondia	l	1
+one S	o	1
+one c	a	1	o	1
+one d	e	1
+one i	l	1
+one t	e	1
+one √	®	1
+onfli	t	2
+onfro	n	1
+oni a	n	2
+oni s	p	1
+onia;	;	1
+onibi	l	1
+onifi	c	1
+onlin	e	1
+onnob	b	1
+ono c	o	1
+ono l	a	1
+ono t	r	1
+onooi	n	1
+onooq	u	1
+onotu	s	1
+ons C	C	1
+onsig	l	1
+onta 	s	1
+ontar	s	3
+onten	d	1	u	1
+ontin	u	1
+ontri	 	1	b	1
+ontro	 	2
+oodiv	e	1
+ooinv	e	1
+oolic	e	1
+oomer	c	1
+ooper	a	1
+ooqui	n	1
+opedi	a	1	e	1
+opera	r	1	z	2
+opiat	o	1
+oprat	t	1
+oprie	 	1
+oquin	d	1
+oradi	c	1
+orati	v	1
+ordyc	e	1
+ore..	W	1
+oria.	.	1
+ormic	h	1
+orser	o	1
+ortam	e	1
+orze 	n	1
+osidd	e	1
+oso, 	e	1
+ossi 	g	1
+osta 	d	1
+ostil	i	1
+osto 	f	1	r	1
+ottan	d	1
+ottob	r	1
+ottom	a	1
+ottoo	l	1
+otus 	l	1
+ove. 	O	1
+ovemb	r	1
+oviet	i	3
+pagna	 	1
+pagne	 	1
+paras	s	1
+pare?	 	1
+parte	c	1
+parti	c	1	r	1
+pecia	l	1
+pedia	 	4
+pedie	 	1
+pegna	t	1
+penso	,	1
+per b	o	1
+perar	o	1
+peraz	i	2
+perrq	u	1
+perta	n	1
+petta	 	1
+pi na	v	1
+piato	 	1
+picco	l	1
+pici 	d	1
+pilla	r	1
+piutt	o	2
+pi√π 	m	1
+pi√ππ	r	1
+polac	c	1
+ponib	i	1
+ponot	u	1
+porad	i	1
+pore.	.	1
+porta	m	1
+ppi n	a	1
+pratt	u	1
+prend	e	1
+prese	 	1	n	1
+prie 	s	1
+propr	i	1
+ps un	i	1
+pubbl	i	2
+pu√≤ 	c	1	p	1
+que p	i	1	u	1
+quell	i	1
+quest	o	1
+quett	e	1
+quind	i	1
+r Bal	t	3
+r bon	i	1
+ra co	n	1
+ra d'	i	1
+ra gr	o	1
+ra il	 	1
+ra le	 	1
+ra mo	n	1
+ra zo	n	1
+raaun	i	1
+radic	a	1
+radiz	i	1
+raffi	c	1
+rafic	i	1
+ralis	 	1
+ramen	t	1
+ramme	n	1
+randi	 	1
+rando	n	1
+rante	e	1
+ranti	r	1
+raron	o	1
+rassi	t	1
+rativ	a	1
+rattu	t	1
+ratui	t	1
+razio	n	3
+rca 1	0	1
+rcant	i	1
+rdi, 	a	1
+rdyce	p	1
+re - 	o	1
+re 27	0	1
+re 90	0	1
+re al	l	1
+re co	p	1
+re da	l	1
+re de	l	5
+re la	 	1
+re le	 	1
+re li	n	1
+re, d	i	1
+re..W	i	1
+re? L	e	1
+rearn	e	1
+reati	v	1
+regis	t	1
+regol	e	1
+rende	 	1
+rese 	d	1
+resen	t	1
+retto	,	1
+rgo c	i	1
+rgome	n	1
+ri ge	o	1
+ri te	d	1
+ri tr	a	1
+ri; i	n	1
+ria, 	e	1
+ria..	I	1
+ribui	r	1
+ribuz	i	1
+rie s	p	1
+riegs	m	1
+rine 	c	1	e	1	m	1
+ripre	s	1
+rispe	t	1
+ristr	e	1
+risul	t	1
+riuti	l	1
+rka W	o	1
+rle..	C	1
+rmich	e	1
+rne d	i	1
+rno".	 	1
+ro de	l	1
+ro di	 	2
+ro il	 	2
+rono 	c	1	l	1	t	1
+ronoo	i	1	q	1
+ronta	 	1	r	3
+roodi	v	1
+ropri	e	1
+rossi	 	1
+rques	t	1
+rra c	o	1
+rra d	'	1
+rra m	o	1
+rra z	o	1
+rrque	s	1
+rsari	;	1
+rsero	o	1
+rsi a	 	1	n	1
+rsi c	o	1
+rsi f	u	2
+rsi s	c	1	p	1
+rtame	n	1
+rtant	o	1
+rteci	p	1
+rtico	l	1
+rtire	 	1
+ruppi	 	1
+rynar	k	1
+rze n	a	1
+rzo d	e	1
+s CC-	B	1
+s leo	n	1
+s uni	l	1
+s √® 	u	1
+sa gu	e	1
+sabbi	o	1
+sari;	 	1
+sca K	r	1
+sca d	e	1
+sca e	 	1
+scala	,	1
+sche 	e	1
+scita	 	1
+scont	r	1
+se co	o	1
+se di	v	1
+secon	d	1
+senti	i	1
+sere 	c	1
+seroo	d	1
+sette	m	3
+si a 	p	1
+si an	n	1
+si co	n	1
+si fu	r	2
+si gr	u	1
+si ne	l	1
+si sc	o	1
+si sp	o	1
+sia g	l	1
+sia q	u	1
+sidde	t	1
+sieme	 	1
+sigli	a	1
+sima 	l	1
+sione	 	2
+siste	n	1
+sitoi	d	1
+skaaM	a	1
+smari	n	1
+so e 	s	1
+so, e	d	1
+so, i	l	1
+sopra	t	1
+sotto	m	1	o	1
+sovie	t	2
+speci	a	1
+spett	a	1
+sponi	b	1
+spora	d	1
+spore	.	1
+ssere	 	1
+ssi g	r	1
+ssito	i	1
+sso e	 	1
+sta d	e	1
+stati	 	1
+stent	i	1
+stich	e	1
+stili	t	1
+sto f	r	1
+sto n	o	1
+sto r	i	1
+straz	i	1
+stret	t	1
+strib	u	1
+su pi	c	1
+sulta	r	1
+svolt	e	1
+ta "g	u	1
+ta de	g	1	l	1
+ta la	 	1
+ta le	e	1
+ta ma	 	1
+ta si	a	1
+ta. D	i	1
+tagli	e	1
+tali 	e	1
+tamen	t	1
+tando	 	1
+tanto	 	1
+tari 	t	1
+taria	,	1
+taron	o	1
+tarsi	 	3
+tate 	c	1
+tati 	b	1
+te ca	m	1
+te de	l	1
+te fi	n	1
+te mo	d	1
+te, n	e	1
+te; l	a	1
+teatr	o	3
+tecip	a	1
+tedes	c	4
+teela	 	1
+teene	l	1
+tembr	e	3
+tende	n	1
+tensa	 	1
+tenti	 	1
+tenut	o	1
+teral	i	1
+teran	d	1
+tersi	 	1
+tesi 	n	1
+ti ba	l	1
+ti na	v	1
+ti o 	c	1
+ti ti	p	1
+ti: i	n	1
+tica,	 	1
+tiche	 	1	.	1
+ticii	r	1
+tico 	√	1	c	1	d	1
+tico,	 	1
+ticol	a	1
+tiiin	 	1
+tile,	 	1
+tilit	√	1
+tiliz	z	1
+timen	t	1
+tinua	r	1
+tipic	i	1
+tire 	d	1	l	1
+tiva 	e	1
+tive 	C	1
+to ad	o	1
+to de	l	1
+to di	 	1
+to ee	r	1
+to es	s	1
+to fr	a	1
+to ne	l	1
+to no	n	1
+to ri	s	1
+to so	t	1
+to √®	 	1
+to, a	l	1
+to, d	a	1
+to, e	d	1
+tobre	 	1
+toide	 	1
+tomar	i	1
+tooli	c	1
+toria	.	1
+tosto	 	2
+tra g	r	1
+tra i	l	1
+tra l	e	1
+traau	n	1
+tradi	z	1
+traff	i	1
+trazi	o	1
+tre 2	7	1
+tre 9	0	1
+tre l	i	1
+trett	o	1
+tri t	r	1
+tribu	i	1	z	1
+tro d	e	1	i	2
+tro i	l	2
+tta "	g	1
+tta l	a	1	e	1
+ttagl	i	1
+ttand	o	1
+tte; 	l	1
+ttemb	r	3
+tters	i	1
+ttime	n	1
+tto d	i	1
+tto n	e	1
+tto, 	d	1	e	1
+ttobr	e	1
+ttoma	r	1
+ttool	i	1
+ttost	o	2
+ttutt	o	1
+tuita	.	1
+tus l	e	1
+tutto	 	1
+t√† l	e	1
+t√† n	a	1	e	1
+u pic	c	1
+u piu	t	1
+u tea	t	2
+uaron	o	1
+ubbli	c	2
+ue pi	√	1
+ue pu	√	1
+ue, W	i	1
+uelli	 	1
+uerra	 	4
+uesto	 	1
+uette	;	1
+ugno 	d	1
+uida;	;	1
+uindi	 	1
+uire 	a	1
+uita.	 	1
+ultar	o	1
+un fu	n	1
+un'en	c	1
+una i	n	1
+uneen	e	1
+ungo 	o	1	p	1
+unila	t	1
+unit√	†	2
+unnba	c	1
+unque	 	1
+uoi p	a	1
+uove.	 	1
+uppi 	n	1
+urant	e	1
+urono	 	1	o	1
+us le	o	1
+uscit	a	1
+usion	e	1
+utili	z	1
+uto √	®	1
+utto 	d	1
+uttos	t	2
+uzion	e	1
+u√≤ c	o	1
+u√≤ p	e	1
+va ee	g	1
+vali 	d	1	t	1
+vali:	 	1
+valii	a	1	e	1
+vasio	n	1
+ve Co	m	1
+ve. O	g	1
+vece 	l	1
+vembr	e	1
+verno	"	1
+versa	r	1
+versi	 	3
+vide 	a	1
+vieti	c	3
+voci 	e	1
+volte	s	1
+vvers	a	1
+wikiq	u	1
+yceps	 	1
+ynark	a	1
+za Cr	e	1
+zato 	a	1
+ze na	v	1
+zialm	e	1
+ziona	l	1	r	1
+zione	 	2
+zioni	 	3
+zo de	l	1
+zone 	c	1
+zzato	 	1
+† leg	g	1
+† nav	a	1
+† nel	 	1
+® con	s	1
+® lib	e	1
+® pub	b	1
+® un 	f	1
+® un'	e	1
+® unn	b	1
+≤ con	t	1
+≤ per	t	1
+π min	a	1
+πripr	e	1
+ππrip	r	1
+√† le	g	1
+√† na	v	1
+√† ne	l	1
+√® co	n	1
+√® li	b	1
+√® pu	b	1
+√® un	 	1	'	1	n	1
+√≤ co	n	1
+√≤ pe	r	1
+√π mi	n	1
+√ππri	p	1
